@@ -26,7 +26,7 @@ I am genuinely passionate about **Digital Design** and **RTL Verification** usin
 I truly value the perspective of others—if you have any feedback on my designs or suggestions on how I can improve this portfolio, I would love to hear from you.
 
 * **LinkedIn:** [Nivetha Narayanan](https://www.linkedin.com/in/nivetha-narayanan-7b5027291)
-* **Email:** [nivethanarayanan6@gmail.com](mailto:nivethanarayanan6@gmail.com)
+* **Email    :** [nivethanarayanan6@gmail.com](mailto:nivethanarayanan6@gmail.com)
 
 ---
 
