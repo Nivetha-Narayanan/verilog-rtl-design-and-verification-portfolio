@@ -19,3 +19,17 @@ This roadmap tracks my daily progress through increasingly complex digital syste
 |:---|:---|:---|:---|
 | [Day 01](./days/day_01) | Basic Logic Gates | Combinational | ✅ Completed |
  
+## Let's Connect
+
+I am genuinely passionate about **Digital Design** and **RTL Verification** using Verilog. This portfolio is a reflection of my learning journey, and I am always looking for ways to improve my skill.
+
+I truly value the perspective of others—if you have any feedback on my designs or suggestions on how I can improve this portfolio, I would love to hear from you.
+
+* **LinkedIn:** [Nivetha Narayanan](https://www.linkedin.com/in/nivetha-narayanan-7b5027291)
+* **Email:** [nivethanarayanan6@gmail.com](mailto:nivethanarayanan6@gmail.com)
+
+---
+
+## Final Thought
+
+> **"What we know is a drop; what we don't is an ocean."**
