@@ -42,7 +42,8 @@ In digital design, hardware description levels define the granularity at which a
 ## Hardware Analysis & Verification
 
 ### 1. Design Implementation (RTL Source)
-![RTL Code](./Screenshot/design_src.jpg)
+![RTL Code](./Screenshot/design_src.jpg). 
+- Here basichgate module ,I used Gate level of modelling and also mentioned the dataflow modelling of this module in the same verilog code as a comment lines.
 
 ### 2. Verification Environment (Testbench)
 ![Testbench Code](./Screenshot/design_src.jpg)
@@ -65,6 +66,18 @@ In digital design, hardware description levels define the granularity at which a
 
 ### 6. Functional Simulation (XSim Waveforms)
 ![Simulation Waveform](./Screenshot/wave.jpg)
+- From waveform,I also get expected output for all input combination.
+ - **Note:**
+      - Inputs waveform in blue 🔵 Colour, Outputs are in 🟢 colour.
+  
+   ---
+   
+   ---
+
+## **Next Steps**
+
+➡️ **[Navigate to Day 02](../Day02/)**
+
 
 
 
