@@ -33,4 +33,36 @@ In digital design, hardware description levels define the granularity at which a
   </details>
   
   ---
+
+  ### Design Resources
   
+ *  **Verilog Design Source file**(.v) — [Click here](./)to view the synthesizable RTL code
+ *  **Functional Testbench(.v)** — [Click here](./) to view the verification environment and test vectors.
+ 
+## Hardware Analysis & Verification
+
+### 1. Design Implementation (RTL Source)
+![RTL Code](./outputs/src_code_snapshot.png)
+
+### 2. Verification Environment (Testbench)
+![Testbench Code](./outputs/tb_code_snapshot.png)
+
+| **Inputs** | | **Outputs** | | | | | | |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **A** | **B** | **NOT (A)** | **AND** | **NAND** | **OR** | **NOR** | **XOR** | **XNOR** |
+| 0 | 0 | 1 | 0 | 1 | 0 | 1 | 0 | 1 |
+| 0 | 1 | 1 | 0 | 1 | 1 | 0 | 1 | 0 |
+| 1 | 0 | 0 | 0 | 1 | 1 | 0 | 1 | 0 |
+| 1 | 1 | 0 | 1 | 0 | 1 | 0 | 0 | 1 |
+
+### 4. Elaborated Design (RTL Schematic)
+![RTL Schematic](./outputs/rtl_schematic.png)
+
+### 5. Synthesized Design (Technology Map)
+![Synthesized Design](./outputs/synthesis_map.png)
+
+### 6. Functional Simulation (XSim Waveforms)
+![Simulation Waveform](./outputs/simulation_wave.png)
+
+
+
