@@ -76,7 +76,7 @@ In digital design, hardware description levels define the granularity at which a
 
 ## **Next Steps**
 
-➡️ **[Navigate to Day 02](../Day_02/)**
+➡️ **[Navigate to Day 02](./Day_02/)**
 
 
 
