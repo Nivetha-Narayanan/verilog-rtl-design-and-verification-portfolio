@@ -42,10 +42,12 @@ In digital design, hardware description levels define the granularity at which a
 ## Hardware Analysis & Verification
 
 ### 1. Design Implementation (RTL Source)
-![RTL Code](./outputs/src_code_snapshot.png)
+![RTL Code](./screenshot/design_src.png)
 
 ### 2. Verification Environment (Testbench)
-![Testbench Code](./outputs/tb_code_snapshot.png)
+![Testbench Code](./screenshot/design_src.png)
+
+### 3.Truth Table
 
 | **Inputs** | | **Outputs** | | | | | | |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -56,13 +58,13 @@ In digital design, hardware description levels define the granularity at which a
 | 1 | 1 | 0 | 1 | 0 | 1 | 0 | 0 | 1 |
 
 ### 4. Elaborated Design (RTL Schematic)
-![RTL Schematic](./outputs/rtl_schematic.png)
+![RTL Schematic](./screenshot/schemam.jpg)
 
 ### 5. Synthesized Design (Technology Map)
-![Synthesized Design](./outputs/synthesis_map.png)
+![Synthesized Design](./screenshot/syn.png)
 
 ### 6. Functional Simulation (XSim Waveforms)
-![Simulation Waveform](./outputs/simulation_wave.png)
+![Simulation Waveform](./screenshot/wave.png)
 
 
 
