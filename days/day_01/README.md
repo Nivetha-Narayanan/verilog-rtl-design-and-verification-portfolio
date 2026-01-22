@@ -36,16 +36,16 @@ In digital design, hardware description levels define the granularity at which a
 
   ### Design Resources
   
- *  **Verilog Design Source file**(.v) — [Click here](./)to view the synthesizable RTL code
- *  **Functional Testbench(.v)** — [Click here](./) to view the verification environment and test vectors.
+ *  **Verilog Design Source file**(.v) — [Click here](./src/basicgate.v)to view the synthesizable RTL code
+ *  **Functional Testbench(.v)** — [Click here](./tb/basicgate_tb.v)  to view the verification environment and test vectors.
  
 ## Hardware Analysis & Verification
 
 ### 1. Design Implementation (RTL Source)
-![RTL Code](./screenshot/design_src.png)
+![RTL Code](./Screenshot/design_src.jpg)
 
 ### 2. Verification Environment (Testbench)
-![Testbench Code](./screenshot/design_src.png)
+![Testbench Code](./Screenshot/design_src.jpg)
 
 ### 3.Truth Table
 
@@ -58,13 +58,13 @@ In digital design, hardware description levels define the granularity at which a
 | 1 | 1 | 0 | 1 | 0 | 1 | 0 | 0 | 1 |
 
 ### 4. Elaborated Design (RTL Schematic)
-![RTL Schematic](./screenshot/schemam.jpg)
+![RTL Schematic](./Screenshot/schemam.jpg)
 
 ### 5. Synthesized Design (Technology Map)
-![Synthesized Design](./screenshot/syn.png)
+![Synthesized Design](./Screenshot/syn.jpg)
 
 ### 6. Functional Simulation (XSim Waveforms)
-![Simulation Waveform](./screenshot/wave.png)
+![Simulation Waveform](./Screenshot/wave.jpg)
 
 
 
