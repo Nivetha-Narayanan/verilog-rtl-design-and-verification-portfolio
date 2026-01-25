@@ -34,7 +34,7 @@
 <summary><b>Touch here to see more</b></summary>
    
   - A combinational logic circuit that can add two binary digits (bits) and a carry bit, and produces a sum bit and a carry bit as output is known as a full-adder.
-  - A full adder circuit adds three binary digits, where two are the inputs and one is the carry forwarded from the previous addition.the carry to other adder.
+  - A full adder circuit adds three binary digits, where two are the inputs and one is the carry forwarded from the previous addition.
     - **Inputs**: 1bit **A**,**B**,**Cin**.
     - **Outputs**: 1bit **Sum**,**Carry**.
  ### Block Diagram
@@ -56,3 +56,32 @@
 </details>
 
 ---
+## Ripple_Carry_Adder or Parallel Adder:
+<details>
+<summary><b>Touch here to see more</b></summary>
+   
+  - Full adder can add single bit two inputs and extra carry bit generated from its previous stage. To add multiple 'n' bits binary sequence, multiples cascaded full adders can be used which can generate a carry bit and be applied to the next stage full adder as an input till the last stage of full adder. This appears as carry-bit ripples to the next stage, hence it is known as "Ripple carry adder".
+    - **Inputs**: n-bit **A**,**B**,1-bit **Cin**.
+    - **Outputs**: n-bit **Sum**,1-bit **Carry_out**.
+
+### Ripple carry adder delay computation 
+- Worst case delay = ((n-1) full adder * carry propagation delay of each adder)+ sum propagation delay of each full adder
+ ### Block Diagram
+ <img width="850" height="678" alt="image" src="https://github.com/user-attachments/assets/b0806f9c-7fa1-415b-a216-37762fe7fbc0" />
+
+
+### Ripple_Carry_Adder(Verilog Codes)
+-  Design module [rca_adder.v](./src/rca_adder.v) 
+- Testbench [tb_rca_adder.v](./tb/tb_rca_adder.v) 
+### Output Screenshots
+![Design_code](./screenshots/rca_adder/design_code.png)
+![Design_code](./screenshots/rca_adder/design_code1.png)
+![Waveform](./screenshots/rca_adder/waveform.png)
+![Schematic](./screenshots/rca_adder/schematic.png)
+![Synthesized](./screenshots/rca_adder/syn_schematic.png)
+
+</details>
+
+---
+
+
