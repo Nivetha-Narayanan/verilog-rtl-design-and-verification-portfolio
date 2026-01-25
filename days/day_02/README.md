@@ -29,7 +29,7 @@
 
 ---
 
-## Full_Adder:
+## Full_Adder using Half Adder:
 <details>
 <summary><b>Touch here to see more</b></summary>
    
