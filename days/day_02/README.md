@@ -18,7 +18,7 @@
    - **Carry** = A & B   ----> A and B
 ### Half_Adder(Verilog Codes)
 -  Design module [half_adder.v](./src/half_adder.v) 
-- Testbench[tb_half_adder.v](./tb/tb_half_adder.v) 
+- Testbench [tb_half_adder.v](./tb/tb_half_adder.v) 
 ### Output Screenshots
 ![Design_code](./screenshots/half_adder/design_code.png)
 ![Waveform](./screenshots/half_adder/wave_form.png)
@@ -45,11 +45,11 @@
    - **Sum** = A ^ B ^ Cin     ----> A exor B exor Cin
    - **Carry** = (A & B)|(Cin &(A^B)) (or)   AB+BC+AC
 ### Full_Adder(Verilog Codes)
--  Design module [half_adder.v](./src/full_adder.v) 
-- Testbench[tb_half_adder.v](./tb/tb_full_adder.v) 
+-  Design module [full_adder.v](./src/full_adder.v) 
+- Testbench [tb_full_adder.v](./tb/tb_full_adder.v) 
 ### Output Screenshots
 ![Design_code](./screenshots/full_adder/design_code.png)
-![Waveform](./screenshots/full_adder/wave_form.png)
+![Waveform](./screenshots/full_adder/waveform.png)
 ![Schematic](./screenshots/full_adder/schematic.png)
 ![Synthesized](./screenshots/full_adder/syn_schematic.png)
 
