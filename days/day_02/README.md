@@ -1,6 +1,9 @@
 # Design:Half_Adder,Full_adder,Ripple_Carry_Adder
    - Addition is one of the most basic operations performed by different electronic devices like computers, calculators,even nowadays AI calculation etc. The electronic circuit that performs the addition of two or more numbers, more specifically binary numbers, is called as adder.
 ## Half_Adder:
+<details>
+<summary><b>Touch here to see more</b></summary>
+   
   - Half Adder is a basic combinational design that can add two single bits and results to a sum and carry bit as output.
   - The carry obtained in one addition will not be forwarded in the next addition because of this it is known as half adder whereas in Full adder we can forward the carry to other adder.
     - **Inputs**: 1bit **A**,**B**.
@@ -20,3 +23,8 @@
 ![Waveform](./screenshots/half_adder/wave_form.png)
 ![Schematic](./screenshots/half_adder/schematic.png)
 ![Synthesized](./screenshots/half_adder/syn_schematic.png)
+
+</details>
+
+---
+
