@@ -71,14 +71,14 @@
 
 
 ### Ripple_Carry_Adder(Verilog Codes)
--  Design module [rca_adder.v](./src/rca_adder.v) 
-- Testbench [tb_rca_adder.v](./tb/tb_rca_adder.v) 
+-  Design module [rca_adder.v](./src/rca.v) 
+- Testbench [tb_rca_adder.v](./tb/tb_rca.v) 
 ### Output Screenshots
-![Design_code](./screenshots/rca_adder/design_code.png)
-![Design_code](./screenshots/rca_adder/design_code1.png)
-![Waveform](./screenshots/rca_adder/waveform.png)
-![Schematic](./screenshots/rca_adder/schematic.png)
-![Synthesized](./screenshots/rca_adder/syn_schematic.png)
+![Design_code](./screenshots/rca/design_code.png)
+![Design_code](./screenshots/rca/design_code1.png)
+![Waveform](./screenshots/rca/waveform.png)
+![Schematic](./screenshots/rca/schematic.png)
+![Synthesized](./screenshots/rca/syn_schematic.png)
 
 </details>
 
