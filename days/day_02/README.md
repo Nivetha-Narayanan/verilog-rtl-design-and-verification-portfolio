@@ -83,7 +83,9 @@
 </details>
 
 ---
-
+## Design Hierarchy
+- Design Hierarchy is a "bottom-up" structure where simple modules (Half Adders) are nested inside larger modules (Full Adders) to build a complex system (Ripple Carry Adder).
+  ![Schematic](./screenshots/rca/schematic.png)
 ## **Next Steps**
 
 ➡️ **[Navigate to Day 03](../day_03/)**
