@@ -19,4 +19,7 @@
    - **Sum** = A ^ B      ----> A exor B
    - **Carry** = A & B   ----> A and B
 ### Output Screenshots
-[code](./screenshots/Screenshot 2026-01-25 195253.png)
+![code](./screenshots/Screenshot%202026-01-25%20195253.png)
+![code](./screenshots/Screenshot%202026-01-25%20195254.png)
+![code](./screenshots/Screenshot%202026-01-25%20195255.png)
+![code](./screenshots/Screenshot%202026-01-25%20195256.png)
