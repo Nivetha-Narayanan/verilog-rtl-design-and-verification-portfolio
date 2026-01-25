@@ -84,4 +84,6 @@
 
 ---
 
+## **Next Steps**
 
+➡️ **[Navigate to Day 02](../day_03/)**
