@@ -6,20 +6,14 @@
     - **Inputs**: 1bit **A**,**B**.
     - **Outputs**: 1bit **Sum**,**Carry**.
  ### Block Diagram
- <img width="628" height="384" alt="image" src="https://github.com/user-attachments/assets/4e830f08-3ddb-4efe-b406-446482ea3993" />
+ <img width="628" height="384" alt="image" src="https://github.com/user-attachments/assets/4e830f08-3ddb-4efe-b406-446482ea3993" />  
 
- ### Truth Table 
- |**A**|**B**|**Sum**|**Carry**|
-   |:---|:---|:---|:---|
-   |0|0|0|0|
-   |0|1|1|0|
-   |1|0|1|0|
-   |1|1|0|1|
+
 ### Equation
    - **Sum** = A ^ B      ----> A exor B
    - **Carry** = A & B   ----> A and B
 ### Output Screenshots
-![code](./screenshots/Screenshot%202026-01-25%20195253.png)
-![code](./screenshots/Screenshot%202026-01-25%20195254.png)
-![code](./screenshots/Screenshot%202026-01-25%20195255.png)
-![code](./screenshots/Screenshot%202026-01-25%20195256.png)
+![Design_code](./screenshots/half_adder/design_code.png)
+![Waveform](./screenshots/half_adder/wave_form.png)
+![Schematic](./screenshots/half_adder/schematic.png)
+![Synthesized](./screenshots/half_adder/syn_schematic.png)
