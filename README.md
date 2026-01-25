@@ -18,6 +18,7 @@ This roadmap tracks my daily progress through increasingly complex digital syste
 | Day Number | Design Name | Category | Status |
 |:---|:---|:---|:---|
 | [Day 01](./days/day_01) | Basic Logic Gates | Combinational | ✅ Completed |
+| [Day 02](./days/day_02) | Adders | Combinational | ✅ Completed |
  
 ## Let's Connect
 
