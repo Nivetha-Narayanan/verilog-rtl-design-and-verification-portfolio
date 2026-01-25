@@ -12,6 +12,9 @@
 ### Equation
    - **Sum** = A ^ B      ----> A exor B
    - **Carry** = A & B   ----> A and B
+### Half_Adder(Verilog Codes)
+-  Design module [half_adder.v](./src/half_adder.v) 
+- Testbench[tb_half_adder.v](./tb/tb_half_adder.v) 
 ### Output Screenshots
 ![Design_code](./screenshots/half_adder/design_code.png)
 ![Waveform](./screenshots/half_adder/wave_form.png)
