@@ -56,36 +56,7 @@
 </details>
 
 ---
-## Ripple_Carry_Adder or Parallel Adder:
-<details>
-<summary><b>Touch here to see more</b></summary>
-   
-  - Full adder can add single bit two inputs and extra carry bit generated from its previous stage. To add multiple 'n' bits binary sequence, multiples cascaded full adders can be used which can generate a carry bit and be applied to the next stage full adder as an input till the last stage of full adder. This appears as carry-bit ripples to the next stage, hence it is known as "Ripple carry adder".
-    - **Inputs**: n-bit **A**,**B**,1-bit **Cin**.
-    - **Outputs**: n-bit **Sum**,1-bit **Carry_out**.
 
-### Ripple carry adder delay computation 
-- Worst case delay = ((n-1) full adder * carry propagation delay of each adder)+ sum propagation delay of each full adder
- ### Block Diagram
- <img width="850" height="678" alt="image" src="https://github.com/user-attachments/assets/b0806f9c-7fa1-415b-a216-37762fe7fbc0" />
-
-
-### Ripple_Carry_Adder(Verilog Codes)
--  Design module [rca_adder.v](./src/rca.v) 
-- Testbench [tb_rca_adder.v](./tb/tb_rca.v) 
-### Output Screenshots
-![Design_code](./screenshots/rca/design_code.png)
-![Design_code](./screenshots/rca/design_code1.png)
-![Waveform](./screenshots/rca/waveform.png)
-![Schematic](./screenshots/rca/schematic.png)
-![Synthesized](./screenshots/rca/syn_schematic.png)
-
-</details>
-
----
-## Design Hierarchy
-- Design Hierarchy is a "bottom-up" structure where simple modules (Half Adders) are nested inside larger modules (Full Adders) to build a complex system (Ripple Carry Adder).
-  ![Schematic](./screenshots/rca/schematic.png)
 ## **Next Steps**
 
 ➡️ **[Navigate to Day 03](../day_04/)**
