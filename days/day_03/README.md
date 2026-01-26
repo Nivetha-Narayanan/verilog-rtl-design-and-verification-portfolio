@@ -59,5 +59,5 @@
 
 ## **Next Steps**
 
-➡️ **[Navigate to Day 03](../day_04/)**
+➡️ **[Navigate to Day 04](../day_04/)**
 
