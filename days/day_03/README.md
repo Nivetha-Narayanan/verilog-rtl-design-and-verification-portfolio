@@ -20,7 +20,7 @@
 - Testbench [tb_half_subtractor.v](./tb/tb_half_subtractor.v) 
 ### Output Screenshots
 ![Design_code](./screenshots/half_subtractor/design_code.png)
-![Waveform](./screenshots/half_subtractor/wave_form.png)
+![Waveform](./screenshots/half_subtractor/waveform.png)
 ![Schematic](./screenshots/half_subtractor/schematic.png)
 ![Synthesized](./screenshots/half_subtractor/syn_schematic.png)
 
