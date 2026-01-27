@@ -22,10 +22,9 @@ To Know more about **[Full_adder](../day_02/)**
 -  Design module [adder_subtractor.v](./src/adder_subtractor.v) 
 - Testbench [tb_adder_subtractor.v](./tb/tb_adder_subtractor.v) 
 ### Output Screenshots
-![Design_code](./screenshots/adder_subtractor/design_code.png)
-![Waveform](./screenshots/adder_subtractor/waveform.png)
-![Schematic](./screenshots/adder_subtractor/schematic.png)
-![Synthesized](./screenshots/adder_subtractor/syn_schematic.png)
+![Design_code](./screenshots/design_code.png)
+![Waveform](./screenshots/waveform.png)
+![Schematic](./screenshots/schematic.png)
  
 
   </details>
@@ -34,5 +33,5 @@ To Know more about **[Full_adder](../day_02/)**
 
 ## **Next Steps**
 
-➡️ **[Navigate to Day 04](../day_05/)**
+➡️ **[Navigate to Day 05](../day_05/)**
 
