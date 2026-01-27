@@ -20,6 +20,7 @@ This roadmap tracks my daily progress through increasingly complex digital syste
 | [Day 01](./days/day_01) | Basic Logic Gates | Combinational | ✅ Completed |
 | [Day 02](./days/day_02) | Adders | Combinational | ✅ Completed |
 | [Day 03](./days/day_03) | Subtractor | Combinational | ✅ Completed |
+| [Day 04](./days/day_04) | Adder/Subtractor | Combinational | ✅ Completed |
  
 ## Let's Connect
 
