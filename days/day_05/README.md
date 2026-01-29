@@ -1,5 +1,8 @@
 # Design:Gray code & Binary code Converter
 ## Gray Code:
+<details>
+<summary><b>Touch here to see more</b></summary>
+
 - Gray Code is the minimum-change code category of coding in which, the two consecutive values changes by only a single bit.
 - This coding technique was invented by Frank Gray, thus it is named so.
 -  binary code is changed to gray equivalent in order to lessen the switching operations.
@@ -24,19 +27,40 @@
 |E	|1110	|1001|
 |F	|1111	|1000|
 
-## Binary to Gray Code Conversion
+</details>  
+  
+---
+  
+## Binary to Gray Code Conversion  
+
+<details>
+<summary><b>Touch here to see more</b></summary> 
+  
 - The Most Significant Bit (MSB) of Gray code is the same as the MSB of the binary number.
 - Each next Gray bit is obtained by XOR of the current binary bit with the previous binary bit.
   <img width="418" height="290" alt="image" src="https://github.com/user-attachments/assets/fb2d9669-d211-4eac-b3e8-83f714049272" />
   <img width="1920" height="1022" alt="Screenshot 2026-01-29 221412" src="https://github.com/user-attachments/assets/ceea0512-3456-4e78-afb0-a8b4e69b0883" />
  <img width="1920" height="1011" alt="Screenshot 2026-01-29 222628" src="https://github.com/user-attachments/assets/9e5a5a03-64be-4323-b9b8-14e04df2134f" />
 
-## Gray to Binary Code Conversion
+</details>
+  
+---
+
+## Gray to Binary Code Conversion  
+
+<details>
+<summary><b>Touch here to see more</b></summary>  
+  
 - The MSB of binary is the same as the MSB of Gray code.
 - Each next binary bit is obtained by XOR of the previous binary bit with the current Gray bit.
   <img width="480" height="308" alt="image" src="https://github.com/user-attachments/assets/1f89462d-0aea-479b-85d6-bb032441c14b" />
 
   <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/48955c63-ba4f-46b3-b9f4-b0afdf63f523" />
   <img width="1920" height="1020" alt="Screenshot 2026-01-29 222649" src="https://github.com/user-attachments/assets/cdef9cca-32bb-418e-aba4-12544693acb5" />
+  
+</details> 
+  
+  ---
+## **Next Steps**
 
-
+➡️ **[Navigate to Day 05](../day_06/)**
