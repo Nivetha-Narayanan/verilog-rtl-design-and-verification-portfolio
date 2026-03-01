@@ -25,8 +25,8 @@ This roadmap tracks my daily progress through increasingly complex digital syste
 | [Day 06](./days/day_06) | Multiplexer | Combinational | ✅ Completed |
 | [Day 07](./days/day_07) | Demultiplexer | Combinational | ✅ Completed |
 | [Day 08](./days/day_08) | Encoder and Priority Encoder | Combinational | ✅ Completed |
-| [Day 08](./days/day_09) | Decoder | Combinational | ✅ Completed |
-| [Day 08](./days/day_10) |Comparator | Combinational | ✅ Completed |
+| [Day 09](./days/day_09) | Decoder | Combinational | ✅ Completed |
+| [Day 10](./days/day_10) |Comparator | Combinational | ✅ Completed |
  
 ## Let's Connect
 
