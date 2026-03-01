@@ -22,7 +22,7 @@ This roadmap tracks my daily progress through increasingly complex digital syste
 | [Day 03](./days/day_03) | Subtractor | Combinational | ✅ Completed |
 | [Day 04](./days/day_04) | Adder/Subtractor | Combinational | ✅ Completed |
 | [Day 05](./days/day_05) | Gray & Binary code converter | Combinational | ✅ Completed |
-| [Day 05](./days/day_06) | Multiplexer | Combinational | ✅ Completed |
+| [Day 06](./days/day_06) | Multiplexer | Combinational | ✅ Completed |
  
 ## Let's Connect
 
