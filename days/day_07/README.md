@@ -19,12 +19,12 @@
 |1	|0| i|  
 
 ### demux 2:1 (Verilog Codes)
--  Design module [demux_2_1.v](./src/demux_2_1.v) 
-- Testbench [tb_demux_2_1.v](./tb/tb_demux_2_1.v) 
+-  Design module [demux_1_2.v](./src/demux_1_2.v) 
+- Testbench [tb_demux_1_2.v](./tb/tb_demux_1_2.v) 
 ### Output Screenshots
-![Design_code](./screenshots/demux_2_1/design_code.png)
-![Waveform](./screenshots/demux_2_1/waveform.png)
-![Schematic](./screenshots/demux_2_1/schematic.png)
+![Design_code](./screenshots/demux_1_2/design_code.png)
+![Waveform](./screenshots/demux_1_2/waveform.png)
+![Schematic](./screenshots/demux_1_2/schematic.png)
 
 
 </details>  
@@ -49,12 +49,12 @@
 |1  |1 |0|0|0|i|  
 
 ### 1:4 demux(Verilog Codes)
--  Design module [demux_4_1.v](./src/demux_4_1.v) 
-- Testbench [tb_demux_4_1.v](./tb/tb_demux_4_1.v) 
+-  Design module [demux_1_4.v](./src/demux_1_4.v) 
+- Testbench [tb_demux_1_4.v](./tb/tb_demux_1_4.v) 
 ### Output Screenshots
-![Design_code](./screenshots/demux_4_1/design_code.png)
-![Waveform](./screenshots/demux_4_1/waveform.png)
-![Schematic](./screenshots/demux_4_1/schematic.png)
+![Design_code](./screenshots/demux_1_4/design_code.png)
+![Waveform](./screenshots/demux_1_4/waveform.png)
+![Schematic](./screenshots/demux_1_4/schematic.png)
 
 </details>  
   
@@ -82,12 +82,12 @@
 |1|1  |1 |0|0|0|0|0|0|0|i|
 
 ### 1:8 demux using 1:4 demuxes (Verilog Codes)
--  Design module [demux_8_1.v](./src/demux_8_1.v) 
-- Testbench [tb_demux_8_1.v](./tb/tb_demux_8_1.v)
+-  Design module [demux_1_8.v](./src/demux_1_8.v) 
+- Testbench [tb_demux_1_8.v](./tb/tb_demux_1_8.v)
   ### Output Screenshots
-![Design_code](./screenshots/demux_8_1/design_code.png)
-![Waveform](./screenshots/demux_8_1/waveform.png)
-![Schematic](./screenshots/demux_8_1/schematic.png)
+![Design_code](./screenshots/demux_1_8/design_code.png)
+![Waveform](./screenshots/demux_1_8/waveform.png)
+![Schematic](./screenshots/demux_1_8/schematic.png)
 
 </details>  
   
