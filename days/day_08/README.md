@@ -36,29 +36,23 @@
   
 ---  
 
-## 4:1 MUX:
+## Priority Encoder:
 <details>
 <summary><b>Touch here to see more</b></summary>
 
-- Has 4 input lines and two select line.
+- The priority encoder overcome the drawback of binary encoder that generates invalid output for more than one input line is set to high. The priority encoder prioritizes each input line and provides an encoder output corresponding to its highest input priority.
+- The priority encoder is widely used in digital applications. One common example of a microprocessor detecting the highest priority interrupt. The priority encoders are also used in navigation systems, robotics for controlling arm positions, communication systems, etc.
   
-  <img width="195" height="256" alt="image" src="https://github.com/user-attachments/assets/00690ffe-fd83-4146-978c-772b81a757ab" />
+  <img width="644" height="571" alt="image" src="https://github.com/user-attachments/assets/ceaec640-b3fc-421f-8c30-6c5020c506ec" />
+ 
 
-  
-| Sel[0]|Sel[1] | Out |
-|:---|:---|:---|
-|0	|0 | i0|
-|0	|1 | i1|
-|1 |0 |i2 |
-|1  |1 |i3 |  
-
-### 4:1mux(Verilog Codes)
--  Design module [mux_4_1.v](./src/mux_4_1.v) 
-- Testbench [tb_mux_4_1.v](./tb/tb_mux_4_1.v) 
+### 8:3 Priority Encoder(Verilog Codes)
+-  Design module [pri_en_8_3.v](./src/pri_en_8_3.v) 
+- Testbench [tb_pri_en_8_3.v](./tb/tb_pri_en_8_3.v) 
 ### Output Screenshots
-![Design_code](./screenshots/mux_4_1/design_code.png)
-![Waveform](./screenshots/mux_4_1/waveform.png)
-![Schematic](./screenshots/mux_4_1/schematic.png)
+![Design_code](./screenshots/pri_en_8_3/design_code.png)
+![Waveform](./screenshots/pri_en_8_3/waveform.png)
+![Schematic](./screenshots/pri_en_8_3/schematic.png)
 
 </details>  
   
