@@ -23,10 +23,10 @@
 -  Design module [mux_2_1.v](./src/mux_2_1.v) 
 - Testbench [tb_mux_2_1.v](./tb/tb_mux_2_1.v) 
 ### Output Screenshots
-![Design_code](./screenshots/full_subtractor/design_code.png)
-![Waveform](./screenshots/full_subtractor/waveform.png)
-![Schematic](./screenshots/full_subtractor/schematic.png)
-![Synthesized](./screenshots/full_subtractor/syn_schematic.png)
+![Design_code](./screenshots/mux_2_1/design_code.png)
+![Waveform](./screenshots/mux_2_1/waveform.png)
+![Schematic](./screenshots/mux_2_1/schematic.png)
+
 
 </details>  
   
