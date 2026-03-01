@@ -58,35 +58,7 @@
   
 ---
 
-## 4:1 MUX using 2:1 MUXes:
-<details>
-<summary><b>Touch here to see more</b></summary>
-
-- Has 4 input lines and two select line.
-  
-  <img width="279" height="282" alt="image" src="https://github.com/user-attachments/assets/dead730e-3bb6-4a80-93f0-ee01559e653e" />
-
-  
-| Sel[0]|Sel[1] | Out |
-|:---|:---|:---|
-|0	|0 | i0|
-|0	|1 | i1|
-|1 |0 |i2 |
-|1  |1 |i3 |
-
-### 4:1mux using 2:1 muxes (Verilog Codes)
--  Design module [mux_4_1_with_2_1.v](./src/mux_4_1_with_2_1.v) 
-- Testbench [tb_mux_4_1_with_2:1.v](./tb/tb_mux_4_1_with_2_1.v)
-  ### Output Screenshots
-![Design_code](./screenshots/mux_4_1_with_2_1/design_code.png)
-![Waveform](./screenshots/mux_4_1_with_2_1/waveform.png)
-![Schematic](./screenshots/mux_4_1_with_2_1/schematic.png)
-
-</details>  
-  
----
-
 ## **Next Steps**
 
-➡️ **[Navigate to Day 07](../day_07/)**
+➡️ **[Navigate to Day 09](../day_09/)**
 
