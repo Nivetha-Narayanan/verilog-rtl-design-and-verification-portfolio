@@ -51,6 +51,10 @@
 ### 4:1mux(Verilog Codes)
 -  Design module [mux_4_1.v](./src/mux_4_1.v) 
 - Testbench [tb_mux_4_1.v](./tb/tb_mux_4_1.v) 
+### Output Screenshots
+![Design_code](./screenshots/mux_4_1/design_code.png)
+![Waveform](./screenshots/mux_4_1/waveform.png)
+![Schematic](./screenshots/mux_4_1/schematic.png)
 
 </details>  
   
