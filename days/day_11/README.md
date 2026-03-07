@@ -95,5 +95,13 @@ The Checker receives the $(n+1)$-bit message. It recalculates the parity of the 
 * **Error Flag:** If the result doesn't match the expected state, an `Error` signal is driven high.
   </details>
 
----
+---  
+
+### Verilog Codes
+-  Design module [parity.v](./src/parity.v) 
+- Testbench [tb_parity.v](./tb/tb_parity.v) 
+### Output Screenshots
+![Design_code](./screenshots/parity/design_code.png)
+![Waveform](./screenshots/parity/waveform.png)
+![Schematic](./screenshots/parity/schematic.png)
 
