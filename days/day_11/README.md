@@ -98,10 +98,10 @@ The Checker receives the $(n+1)$-bit message. It recalculates the parity of the 
 ---  
 
 ### Verilog Codes
--  Design module [parity.v](./src/parity.v) 
-- Testbench [tb_parity.v](./tb/tb_parity.v) 
+-  Design module [parity.v](./parity.v) 
+- Testbench [tb_parity.v](./tb_parity.v) 
 ### Output Screenshots
-![Design_code](./screenshots/parity/design_code.png)
-![Waveform](./screenshots/parity/waveform.png)
-![Schematic](./screenshots/parity/schematic.png)
+![Design_code](./screenshots/design_code.png)
+![Waveform](./screenshots/waveform.png)
+![Schematic](./screenshots/schematic.png)
 
